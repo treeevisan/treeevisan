@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 What i'm [working on](https://www.kaggle.com/renantrevisan/code)
+- 🔭 Check my [repositories](https://www.github.com/treeevisan?tab=repositories) and my [Kaggle](https://www.kaggle.com/renantrevisan/code) to see what I'm working on
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Statistics and Dataviz projects
+- ⚡ I can help you with web scrape bots!
 
 [![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=treeevisan&show_icons=true&theme=dark)](https://github.com/treeevisan/github-readme-stats)
 
